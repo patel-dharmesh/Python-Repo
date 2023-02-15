@@ -1,0 +1,2 @@
+This is a sample file that counts the number of word frequency.
+Let's see how it handles multiple lines. The word this is repeated this this.
